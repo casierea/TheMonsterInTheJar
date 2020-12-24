@@ -1,8 +1,8 @@
 # TheMonsterInTheJar
 
 ## Table of Contents
-- [Repository Purpose and Scope]
-- [Requirements and Setup]
+- [Repository Purpose and Scope](https://github.com/casierea/TheMonsterInTheJar#repository-purpose)
+- [Requirements and Setup](https://github.com/casierea/TheMonsterInTheJar#requirements-and-setup)
 
 
 ## Repository Purpose
@@ -12,10 +12,6 @@
 ## Requirements and Setup
 - [Toon Boom Harmony](https://www.toonboom.com/products/harmony)
 
-**Install Requirements**
-
-### Working With the Scripts
 
 
-### Current issues:
 
