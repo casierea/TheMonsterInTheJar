@@ -1,7 +1,5 @@
 # TheMonsterInTheJar
 
-## HMDA Census Geographic and Demographic Data 
-
 ## Table of Contents
 - [Repository Purpose and Scope]()
 - [Requirements and Setup]()
