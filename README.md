@@ -1,8 +1,8 @@
 # TheMonsterInTheJar
 
 ## Table of Contents
-- [Repository Purpose and Scope]()
-- [Requirements and Setup]()
+- [Repository Purpose and Scope]
+- [Requirements and Setup]
 
 
 ## Repository Purpose
